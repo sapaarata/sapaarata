@@ -1,4 +1,4 @@
-<img align="right" src="https://files.catbox.moe/ks71zu.png" alt="image" width="140" />
+<img align="left" src="https://files.catbox.moe/ks71zu.png" alt="image" width="140" />
 <br />
  ‎ ‎‎ ‎ ‎ ‎ ‎ ‎<p align="center">
 <img width="150" height="95" alt="stamp5" src="https://komarev.com/ghpvc/?username=sapaarata&label=୭ৎ+snowballs﹐++&color=E1E1E1" />
@@ -17,7 +17,7 @@
   
 
 ‎<p align="center">
-$${\color{orange}𓆩my} \space {\color{orange}githubs!𓆪}$$
+$${\color{yellow}𓆩my} \space {\color{yellow}githubs!𓆪}$$
 
   
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
@@ -30,5 +30,5 @@ $${\color{orange}𓆩my} \space {\color{orange}githubs!𓆪}$$
   ‍ ­
   ‍ 
     ‎ ‎<p align="right">
-    $${\color{orange}<ins>AC</ins> } \space {\color{orange}TO} \space {\color{orange}quinnex77777} \space {\color{orange}ON} \space {\color{orange}TWITTER}$$
+    $${\color{yellow}<ins>AC</ins> } \space {\color{yellow}TO} \space {\color{yellow}quinnex77777} \space {\color{yellow}ON} \space {\color{yellow}TWITTER}$$
 
