@@ -1,4 +1,4 @@
-<img align="left" src="https://files.catbox.moe/ks71zu.png" alt="image" width="140" />
+<img align="center" src="https://files.catbox.moe/ks71zu.png" alt="image" width="140" />
 <br />
  ‎ ‎‎ ‎ ‎ ‎ ‎ ‎<p align="center">
 <img width="150" height="95" alt="stamp5" src="https://komarev.com/ghpvc/?username=sapaarata&label=୭ৎ+snowballs﹐++&color=E1E1E1" />
